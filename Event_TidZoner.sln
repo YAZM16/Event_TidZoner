@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event_TidZoner", "Event_TidZoner.csproj", "{64EA59AA-65A4-4515-BBEF-B820E00D3A4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64EA59AA-65A4-4515-BBEF-B820E00D3A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64EA59AA-65A4-4515-BBEF-B820E00D3A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64EA59AA-65A4-4515-BBEF-B820E00D3A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64EA59AA-65A4-4515-BBEF-B820E00D3A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46431AB9-56F6-424B-8C82-1F2C000BA399}
+	EndGlobalSection
+EndGlobal

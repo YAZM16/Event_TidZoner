@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Event_TidZoner": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Svenskam\u00E4ssam25",
+    "StartTime": "2025-05-12T08:00:00Z",
+    "Duration": "3.00:00:00",
+    "TimeZone": {
+      "Id": "UTC",
+      "HasIanaId": true,
+      "DisplayName": "(UTC) Coordinated Universal Time",
+      "StandardName": "Coordinated Universal Time",
+      "DaylightName": "Coordinated Universal Time",
+      "BaseUtcOffset": "00:00:00",
+      "SupportsDaylightSavingTime": false
+    },
+    "EndTime": "2025-05-15T08:00:00Z"
+  }
+]
